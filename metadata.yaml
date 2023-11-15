@@ -1,0 +1,29 @@
+_repo: L-incantesimo_72053
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Butti, Enrico Annibale
+    birthdate: 1868
+    deathdate: 1912
+    gutenberg_agent_id: '33624'
+    url: http://www.gutenberg.org/2009/agents/33624
+description: ''
+gutenberg_issued: '2023-11-06'
+identifiers:
+  gutenberg: '72053'
+language: it
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k1166541k
+pgterms:marc905: 20230104043036butti
+pgterms:marc906: '1897'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aMilano :$bTreves, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'incantesimo
+url: http://www.gutenberg.org/ebooks/72053
