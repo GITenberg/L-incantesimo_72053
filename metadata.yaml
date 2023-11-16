@@ -1,5 +1,8 @@
 _repo: L-incantesimo_72053
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72053-h/images/cover.jpg
 creator:
   author:
     agent_name: Butti, Enrico Annibale
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '33624'
     url: http://www.gutenberg.org/2009/agents/33624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72053#L-incantesimo
 gutenberg_issued: '2023-11-06'
 identifiers:
   gutenberg: '72053'
